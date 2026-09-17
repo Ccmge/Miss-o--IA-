@@ -52,7 +52,7 @@ const perguntas = [
                 {
                     texto:    "Apenas ocasionalmente ou raramente. Às vezes minha autoestima oscila e isso pode afetar negativamente minha qualidade de vida em certas ocasiões.",
                     afirmacao: "Você demomostra que precisa se conhecer mais e mostra uma consciência de uma crescente necessidade de cuidar mais da própria percepção e bem-estar emocional.",
-                    
+                    "Como a sua autoestima varia às vezes, você nota o impacto disso na sua rotina. Isso reflete um momento de amadurecimento, onde você busca se entender melhor e priorizar sua saúde mental."
                 }    
                
             ]
