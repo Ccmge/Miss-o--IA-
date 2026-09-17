@@ -10,11 +10,15 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Utilizando palestras para prevenir o cyberbullying nas escolas.",
-                afirmacao: "Você é uma pessoa reflexiva e busca aprendizado e conhecimento."
+                afirmacao: "Você é uma pessoa reflexiva e busca aprendizado e conhecimento.",
+                "Você usa o seu pensamento crítico e o desejo de aprender para propor palestras escolares que combatem a violência virtual."
             },
             {
                 texto:  "Prestando atenção aos sinais de cyberbullying nas escolas.",
-                afirmacao: "Você é uma pessoa observadora, pois se preocupa com o bem estar dos seus alunos."
+                afirmacao: "Você é uma pessoa observadora, pois se preocupa com o bem estar dos seus alunos.",
+                "Quem se importa de verdade com os alunos está sempre vigiando. O seu perfil observador é a chave para detectar o cyberbullying antes que ele cause danos."
+
+                         
             }    
            
         ]
