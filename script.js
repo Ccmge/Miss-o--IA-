@@ -65,7 +65,9 @@ const perguntas = [
 let atual = 0;
 let perguntaAtual;
 let historiaFinal = "";
-
+function aleatorio(lista) {
+    const posicao = Math.random()* lista.length;
+}
 function mostraPergunta(){
     if(atual >= perguntas.length){
         mostraResultado();
