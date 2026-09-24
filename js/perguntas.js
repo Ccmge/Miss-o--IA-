@@ -4,7 +4,7 @@ export const perguntas = [
         alternativas: [
             {
                 texto: "Utilizando palestras para prevenir o cyberbullying nas escolas.",
-                afirmacao: "Você é uma pessoa reflexiva e busca aprendizado e conhecimento.",
+                afirmacao: [ "Você é uma pessoa reflexiva e busca aprendizado e conhecimento.",
                 "Você usa o seu pensamento crítico e o desejo de aprender para propor palestras escolares que combatem a violência virtual."
             ]
             },
