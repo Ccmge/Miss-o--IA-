@@ -35,7 +35,7 @@ export const perguntas = [
                 }    
                
             ]
-        },
+     },
         {
             enunciado: "Hoje em dia é cada vez mais importante conhecer o seu corpo, suas qualidades, suas limitações e entender suas emoções. Saber controlá-las é o desafio das pessoas. A sua auto-estima impacta a sua qualidade de vida?",
 
@@ -54,8 +54,7 @@ export const perguntas = [
                 }    
                
             ]
-                }    
+                } ,   
                
-            ]
-        },
-];
+    ];
+    
