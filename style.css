@@ -42,3 +42,8 @@ button:hover {
 .caixa-resultado{
     display: none;
 }
+.caixa-alternativas{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
