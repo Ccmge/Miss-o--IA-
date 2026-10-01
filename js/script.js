@@ -43,6 +43,7 @@ function mostraResultado(){
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
+caixaResultado.classList.add("mostrar");
 function jogaNovamente(){
     atual = 0;
     historiaFinal = "";
